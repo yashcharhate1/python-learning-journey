@@ -1,0 +1,10 @@
+# Q3. Install an external module and use it to perform an operation of your interest.
+
+import pyttsx3
+
+engine = pyttsx3.init()
+
+text = input("Enter a string to say: ")
+
+engine.say(text)
+engine.runAndWait()
