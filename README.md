@@ -7,7 +7,7 @@ A structured, chapter-by-chapter record of my Python learning, including concept
 - [x] Chapter 1 — Basics
 - [x] Chapter 2 — Variables and Datatypes
 - [x] Chapter 3 — Strings
-- [ ] Chapter 4 — Lists and Tuples
+- [x] Chapter 4 — Lists and Tuples
 - [ ] Chapter 5 — Dictionaries and Sets
 - [ ] Chapter 6 — Conditional Expressions
 - [ ] Chapter 7 — Loops in Python
