@@ -9,7 +9,7 @@ A structured, chapter-by-chapter record of my Python learning, including concept
 - [x] Chapter 3 — Strings
 - [x] Chapter 4 — Lists and Tuples
 - [x] Chapter 5 — Dictionaries and Sets
-- [ ] Chapter 6 — Conditional Expressions
+- [x] Chapter 6 — Conditional Expressions
 - [ ] Chapter 7 — Loops in Python
 - [ ] Chapter 8 — Functions and Recursion
 - [ ] Chapter 9 — File Input/Output
