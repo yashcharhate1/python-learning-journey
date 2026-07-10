@@ -20,7 +20,9 @@ A structured, chapter-by-chapter record of my Python learning, including concept
 
 ## Projects
 
-
+| Project | Description |
+|---|---|
+| [Project 1 — Snake, Water, Gun](./Project%201%20-%20SWG-Game%20-%20Snake-Water-Gun) | A command-line game built using dictionary-based logic instead of long if/elif chains. |
 
 ## Structure
 
