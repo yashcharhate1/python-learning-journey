@@ -1,0 +1,20 @@
+🧠 What is CLAUDE.md (Game Changer)
+
+Think of it like:
+
+A permanent brain for Claude inside your project
+
+It stores:
+- Build commands (run, test, lint)
+- Architecture overview
+- Tech stack (MERN, Python, etc.)
+- Coding rules (naming, styling)
+- Project conventions
+
+📌 Why it matters:
+
+- No repeated explaining
+- No wrong assumptions
+- No hallucinated libraries
+
+👉 Claude reads this file every session automatically

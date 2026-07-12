@@ -1,0 +1,16 @@
+LSTM Model for Real-Time ISL Gesture Recognition
+
+Gesture recognition from video is a sequence classification problem: we extract a series of hand-keypoint features over time and 
+classify the entire sequence as one gesture. In our case, each input is 30 video frames of hand landmarks (42 points with x, y, z 
+each) – a 30×126 tensor – representing one ISL (Indian Sign Language) letter. We use an LSTM-based neural network because LSTM 
+layers are designed to handle temporal sequences and have been successfully used for sign language recognition. We also rely on 
+MediaPipe to extract hand landmark keypoints: MediaPipe Holistic provides 21 landmarks per hand (each with 3D coordinates), which 
+we flatten into a 126-dimensional feature vector per frame. The model outputs one of 26 classes (A–Z), with one gesture per 
+30-frame sequence.
+
+Key steps:
+- Extract and preprocess keypoint data from MediaPipe for each frame.
+- Build a Keras Sequential LSTM model for sequence classification.
+- Compile and train the model (using one-hot labels and categorical crossentropy).
+- Evaluate accuracy, save the model, and convert to TensorFlow Lite for deployment.
+- (Optional) Define a prediction function to run inference on new sequences.
