@@ -13,7 +13,7 @@ A structured, chapter-by-chapter record of my Python learning, including concept
 - [x] Chapter 7 — Loops in Python
 - [x] Chapter 8 — Functions and Recursion
 - [x] Chapter 9 — File Input/Output
-- [ ] Chapter 10 — Object-Oriented Programming
+- [x] Chapter 10 — Object-Oriented Programming
 - [ ] Chapter 11 — Inheritance and Extra OOPs Concepts
 - [ ] Chapter 12 — Advanced Python - 1
 - [ ] Chapter 13 — Advanced Python - 2
