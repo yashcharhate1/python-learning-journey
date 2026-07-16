@@ -20,9 +20,9 @@ A structured, chapter-by-chapter record of my Python learning, including concept
 
 ## Projects
 
-| Project | Description |
-|---|---|
-| [Project 1 — Snake, Water, Gun](./Project%201%20-%20SWG-Game%20-%20Snake-Water-Gun) | A command-line game built using dictionary-based logic instead of long if/elif chains. |
+| Project | Type | Description |
+|---|---|---|
+| [Project 1 — Snake, Water, Gun](./Project-1-SWG-Snake-Water-Gun) | Mini Project | Command-line game using dictionary-based win/loss logic instead of if/elif chains |
 | [Project 2 — The Perfect Guess](./Project-2-The-Perfect-Guess) | Mini Project | Number guessing game with higher/lower hints and attempt counter |
 
 ## Structure
