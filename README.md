@@ -13,12 +13,8 @@ A structured, chapter-by-chapter record of my Python learning, including concept
 - [x] Chapter 7 — Loops in Python
 - [x] Chapter 8 — Functions and Recursion
 - [x] Chapter 9 — File Input/Output
-<<<<<<< Updated upstream
 - [x] Chapter 10 — Object-Oriented Programming
-=======
-- [x] Chapter 10 — Object-Oriented Programming
->>>>>>> Stashed changes
-- [ ] Chapter 11 — Inheritance and Extra OOPs Concepts
+- [x] Chapter 11 — Inheritance and Extra OOPs Concepts
 - [ ] Chapter 12 — Advanced Python - 1
 - [ ] Chapter 13 — Advanced Python - 2
 
@@ -27,6 +23,7 @@ A structured, chapter-by-chapter record of my Python learning, including concept
 | Project | Description |
 |---|---|
 | [Project 1 — Snake, Water, Gun](./Project%201%20-%20SWG-Game%20-%20Snake-Water-Gun) | A command-line game built using dictionary-based logic instead of long if/elif chains. |
+| [Project 2 — The Perfect Guess](./Project-2-The-Perfect-Guess) | Mini Project | Number guessing game with higher/lower hints and attempt counter |
 
 ## Structure
 
