@@ -16,7 +16,7 @@ A structured, chapter-by-chapter record of my Python learning, including concept
 - [x] Chapter 10 — Object-Oriented Programming
 - [x] Chapter 11 — Inheritance and Extra OOPs Concepts
 - [x] Chapter 12 — Advanced Python - 1
-- [ ] Chapter 13 — Advanced Python - 2
+- [x] Chapter 13 — Advanced Python - 2
 
 ## Projects
 
