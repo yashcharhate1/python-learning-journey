@@ -3,7 +3,7 @@
 A voice-controlled desktop virtual assistant named **Narad**, built in Python. It listens for a wake word, processes spoken commands, and responds using text-to-speech — similar in concept to Alexa or Siri.
 
 ## Features
-- Wake-word detection ("Narad") using a microphone
+- Wake-word detection ("Narayana Narayana") using a microphone
 - Opens websites (Google, YouTube, Facebook, LinkedIn) on voice command
 - Plays songs from a personal music library by name
 - Fetches and reads out the latest news headlines via the News API
