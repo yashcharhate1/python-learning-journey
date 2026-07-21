@@ -24,6 +24,7 @@ A structured, chapter-by-chapter record of my Python learning, including concept
 |---|---|---|
 | [Project 1 — Snake, Water, Gun](./Project-1-SWG-Snake-Water-Gun) | Mini Project | Command-line game using dictionary-based win/loss logic instead of if/elif chains |
 | [Project 2 — The Perfect Guess](./Project-2-The-Perfect-Guess) | Mini Project | Number guessing game with higher/lower hints and attempt counter |
+| [Mega Project 1 — Devarshi Narad Virtual Assistant](./Mega-Project-1-Devarshi-Narad-Virtual-Assistant) | Mega Project | Voice-controlled assistant using speech recognition, gTTS, and Gemini AI |
 
 ## Structure
 
