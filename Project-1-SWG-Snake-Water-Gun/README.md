@@ -8,7 +8,7 @@ A command-line implementation of the Snake-Water-Gun game (a 3-way variant of Ro
 
 ## Files
 - `main.py` — main implementation
-- `main_shortened.py` — a condensed alternative version of the same logic
+- `main_shortened.py` — a condensed alternative version of the same logic by finding similarities
 
 ## Run it
 ```bash
