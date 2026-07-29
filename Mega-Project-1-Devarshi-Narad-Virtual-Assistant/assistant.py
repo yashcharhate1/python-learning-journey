@@ -81,7 +81,7 @@ def processCommand(c):
         webbrowser.open("https://linkedin.com")
 
     elif c.lower().startswith("play"):
-        # Everything after "play " is the song name, not just the 2nd word,
+        # Everything after "play " is the song name, not just the 2nd word
         # so multi-word titles like "play beauty and a beat" work.
         song = c[len("play"):].strip().lower()
 
